@@ -1,0 +1,137 @@
+.navbar-brand,
+.navbar-brand > span {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+}
+
+.popup {
+    justify-content: center;
+    background-color: #C7D0D9;
+    height: 674px;
+    width: 985px;
+    /* left: 227px;
+    top: 127px; */
+}
+
+.signin {
+    /* margin-left: 123px; */
+    padding-top: 115px;
+    color: #273440;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+
+            }
+
+            .input_email {
+                margin-top: 23px;
+                margin-bottom: 23px;
+                width: 740px;
+                height: 46px;
+                left: 350px;
+                top: 326px;
+
+                background: #FFFFFF;
+                color: #000032;
+                border: 1.5px solid #000032;
+                border-radius: 8px;
+
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                /* padding: 13px 20px; */
+                gap: 10px;
+
+                /* margin-left: 122px;
+                margin-right: 122px; */
+            }
+
+            .or_text {
+                font-family: 'Montserrat';
+                font-style: normal;
+                font-weight: 500;
+                font-size: 20px;
+                line-height: 24px;
+
+
+                color: #8291A2;
+            }
+
+            .btn_sosmed {
+                background: #F2F2F2;
+                border-radius: 4px;
+
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+                align-items: center;
+                padding: 0px 12px;
+                gap: 6px;
+
+                width: 740px;
+                height: 40px;
+                left: 350px;
+                top: 579px;
+
+                margin-left: 122px;
+                margin-right: 122px;
+
+                color: #273440;
+
+            }
+
+            .btn_signup:hover {
+                background-color: #3f4a56;
+                color: #273440;
+                border-style: none;
+            }
+
+            .breadcrump-item {
+                text-decoration: none;
+                font-size: 20px;
+                padding: 30px;
+
+            }
+
+            .title-carousel {
+                color: #8291A2;
+                font-size: 28px;
+                font-weight: bold;
+                padding-left: 20px;
+                margin-top: 24px;
+
+            }
+
+            .tags-carousel {
+                color: #8291A2;
+                font-size: 20px;
+                font-weight: bold;
+                padding-left: 20px;
+
+            }
+
+            .cards {
+                background-color: none;
+                padding: 30px;
+            }
+
+            .btn {
+                padding: 0%;
+                margin: 0%;
+                width: fit-content;
+            }
+
+            .btn,
+            .btn > .btn_link {
+                background: none;
+                text-decoration: none;
+                font-size: 20px;
+            }
+
+            .btn,
+            .btn > .btn_link:hover {
+                color: #8291A2;
+            }
